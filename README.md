@@ -18,3 +18,8 @@ SwiftUIAlarm is an example Alarm-like application using [SwiftUI](https://develo
 - [ ] Editing and Deleting
 - [ ] Perfectly Dismiss Presented View
 
+
+
+## License
+
+SwiftUIAlarm is under MIT license. See the [LICENSE](LICENSE) file for more info.
